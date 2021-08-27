@@ -580,4 +580,4 @@
 - [DELETE에 BODY 값 넣기](https://logcdn.com/general/2909/delete-method-is-not-supportingnon-body-http-method-cannot-contain-body-or-typedoutput)
 - [바텀 네비게이션 아이콘 변경](https://lcw126.tistory.com/330)
 - [Collapsing Tool bar](https://black-jin0427.tistory.com/16)
-= [이미지뷰에 색상 넣기 잘 정리됨](https://leveloper.tistory.com/166)
+- [이미지뷰에 색상 넣기 잘 정리됨](https://leveloper.tistory.com/166)
